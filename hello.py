@@ -4,6 +4,5 @@ print("hai world")
 
 current_time = datetime.datetime.now()
 
-print ("Time now is : "
-                                    , end = "")
+print ("Time now is : ")
 print (current_time) 
