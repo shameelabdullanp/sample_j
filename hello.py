@@ -1,2 +1,9 @@
+#B Python
+import datetime 
 print("hai world")
-# brach python 
+
+current_time = datetime.datetime.now()
+
+print ("Time now is : "
+                                    , end = "")
+print (current_time) 
